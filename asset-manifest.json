@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/water-world-kelaniya/static/css/main.0e80a26d.css",
-    "main.js": "/github.io/water-world-kelaniya/static/js/main.beae5e71.js",
-    "static/js/453.e0494f47.chunk.js": "/github.io/water-world-kelaniya/static/js/453.e0494f47.chunk.js",
-    "static/media/footerbg.png": "/github.io/water-world-kelaniya/static/media/footerbg.5036ad661041d566a8e5.png",
-    "static/media/hero1.png": "/github.io/water-world-kelaniya/static/media/hero1.d4c732749e8b64b6e7cb.png",
-    "static/media/plants.png": "/github.io/water-world-kelaniya/static/media/plants.d59e842ff597ead03304.png",
-    "static/media/22.png": "/github.io/water-world-kelaniya/static/media/22.07d0b077ccc560208d41.png",
-    "static/media/11.png": "/github.io/water-world-kelaniya/static/media/11.320eae9ac657076f8a23.png",
-    "index.html": "/github.io/water-world-kelaniya/index.html",
-    "main.0e80a26d.css.map": "/github.io/water-world-kelaniya/static/css/main.0e80a26d.css.map",
-    "main.beae5e71.js.map": "/github.io/water-world-kelaniya/static/js/main.beae5e71.js.map",
-    "453.e0494f47.chunk.js.map": "/github.io/water-world-kelaniya/static/js/453.e0494f47.chunk.js.map"
+    "main.css": "/water-world-kelaniya/static/css/main.56b2b528.css",
+    "main.js": "/water-world-kelaniya/static/js/main.2de30ab5.js",
+    "static/js/453.e0494f47.chunk.js": "/water-world-kelaniya/static/js/453.e0494f47.chunk.js",
+    "static/media/footerbg.png": "/water-world-kelaniya/static/media/footerbg.5036ad661041d566a8e5.png",
+    "static/media/hero1.png": "/water-world-kelaniya/static/media/hero1.d4c732749e8b64b6e7cb.png",
+    "static/media/plants.png": "/water-world-kelaniya/static/media/plants.d59e842ff597ead03304.png",
+    "static/media/22.png": "/water-world-kelaniya/static/media/22.07d0b077ccc560208d41.png",
+    "static/media/11.png": "/water-world-kelaniya/static/media/11.320eae9ac657076f8a23.png",
+    "index.html": "/water-world-kelaniya/index.html",
+    "main.56b2b528.css.map": "/water-world-kelaniya/static/css/main.56b2b528.css.map",
+    "main.2de30ab5.js.map": "/water-world-kelaniya/static/js/main.2de30ab5.js.map",
+    "453.e0494f47.chunk.js.map": "/water-world-kelaniya/static/js/453.e0494f47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e80a26d.css",
-    "static/js/main.beae5e71.js"
+    "static/css/main.56b2b528.css",
+    "static/js/main.2de30ab5.js"
   ]
 }
