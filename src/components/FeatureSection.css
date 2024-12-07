@@ -1,0 +1,24 @@
+.feature-section {
+  background-color: #01131d;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-wrapper {
+  width: 50%; /* Adjust size as needed */
+  max-width: 800px; /* Limit maximum width */
+  padding-bottom: 56.25%; /* 16:9 aspect ratio (adjust as needed) */
+  position: relative;
+  overflow: hidden;
+  border: 8px solid #01131d; /* Border color matches the background */
+}
+
+.youtube-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

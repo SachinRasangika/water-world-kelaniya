@@ -1,0 +1,81 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #01131d;
+  color: #fff;
+  margin: 0;
+}
+
+.tickets-section {
+  padding: 4rem 1rem;
+  background-color: #01131d;
+}
+
+.section-heading {
+  text-align: left;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #fff;
+  padding: 1rem;
+}
+
+.price-table {
+  display: flex;
+  flex-wrap: wrap; /* Wrap categories into multiple lines */
+}
+
+.category {
+  width: calc(50% - 2rem); /* Adjust width to fit two categories in one row */
+  margin-right: 2rem; /* Adjust margin between categories */
+  margin-bottom: 2rem; /* Adjust margin between rows */
+}
+
+.price-card {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-top: 1px solid #0d3d55;
+  border-bottom: 1px solid #0d3d55;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.price-card.active {
+  background-color: #04334a;
+}
+
+.price-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price-card-title {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.price-card-right {
+  display: flex;
+  align-items: center;
+}
+
+.price-card-price {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-right: 0.5rem;
+}
+
+.price-card-icon {
+  font-size: 1.25rem;
+  color: #fff;
+}
+
+.price-card-description {
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: #b0c4de;
+}
+
+.bullet-icon {
+  color: #fff; /* Example color */
+  margin-right: 5px; /* Adjust margin as needed */
+}

@@ -1,0 +1,23 @@
+  /* Home.css */
+
+  .homepage {
+      background-image: url('https://png.pngtree.com/png-vector/20220616/ourmid/pngtree-underwater-bubbles-of-fizzing-soda-png-image_5086719.png');
+      background-size: cover;
+      background-position: center;
+      height: 100vh; /* Adjust height as needed */
+      position: relative;
+      overflow: hidden;
+      animation: waterBubbles 20s linear infinite;
+    }
+    
+    @keyframes waterBubbles {
+      0% {
+        background-position: 0 0;
+      }
+      100% {
+        background-position: -2000px -2000px;
+      }
+    }
+    
+
+    

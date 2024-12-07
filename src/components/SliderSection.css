@@ -1,0 +1,50 @@
+.slider-section {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 22%;
+  margin-bottom: 20px;
+  background-color: #3498db;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-bottom: 1px solid #fff;
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card-heading {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.card-details {
+  color: #fff;
+}
+
+.read-more-btn {
+  background-color: #2980b9;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.read-more-btn:hover {
+  background-color: #2c3e50;
+}
